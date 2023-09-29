@@ -1,15 +1,15 @@
 # Talks_Presentations
-# My Talks
 
-This is a list of some of the talks I have given or will give in various events.
+
+This is a list of some of the talks I have given at various events.
 
 ## Presentations given
 
-- **REACH workshop:** [REACH receiver]. [Description of your talk 1]. \[25 September 2023, Malta REACH general meeting\] \[[Event webpage](https://www.um.edu.mt/events/reachworkshop2023/)] \[Link to the slides] \[Link to the video]
-- **Talk 2:** [Title of your talk 2]. [Description of your talk 2]. \[Date and venue of your talk 2\] \[Link to the event] \[Link to the slides] \[Link to the video]
+- **REACH AGM 2023 Malta:** [REACH receiver]. [1]. \[25 September 2023, Malta REACH general meeting\] \[[Event webpage](https://www.um.edu.mt/events/reachworkshop2023/)] \[link to slides] \[Link to the video]
+- **Talk 2:** [titel]. [ 2]. \[Date and venue  2\] \[Link to the event] \[Link to the slides] \[Link to the video]
 
 
 
-- **Talk 3:** [Title of your talk 3]. [Description of your talk 3]. \[Date and venue of your talk 3\] \[Link to the event] \[Link to the slides] \[Link to the video]
-- **Talk 4:** [Title of your talk 4]. [Description of your talk 4]. \[Date and venue of your talk 4\] \[Link to the event] \[Link to the slides] \[Link to the video]
+- **Talk 3:** [3]. [3]. \[Date and venue  3\] \[Link to the event] \[Link to the slides] \[Link to the video]
+- **Talk 4:** [4]. [ 4]. \[Date and venue  4\] \[Link to the event] \[Link to the slides] \[Link to the video]
 
