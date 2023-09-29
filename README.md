@@ -5,7 +5,7 @@ This is a list of some of the talks I have given at various events.
 
 ## Presentations given
 
-- **REACH AGM 2023 Malta:** [REACH receiver]. [1]. \[25 September 2023, Malta REACH general meeting\] \[[Event webpage](https://www.um.edu.mt/events/reachworkshop2023/)] \[link to slides] \[Link to the video]
+- **REACH Receiver:** [REACH receiver]. [1]. \[25 September 2023, Malta REACH annual general meeting\] \[[Event webpage](https://www.um.edu.mt/events/reachworkshop2023/)] \[link to slides] \[Link to the video]
 - **Talk 2:** [titel]. [ 2]. \[Date and venue  2\] \[Link to the event] \[Link to the slides] \[Link to the video]
 
 
