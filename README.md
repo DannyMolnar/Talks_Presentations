@@ -13,7 +13,7 @@ This is a list of some of the talks I have given at various events.
  **Talk:**  
  - \[REACH calibration workshop,18 January 2024,Cambridge]
  - \[[Event webpage](link)]
- - \[[PDF]((https://github.com/DannyMolnar/Talks_Presentations/blob/main/Calibration_workshop_2024Jan18.pptx))]
+ - \[[PPT](https://github.com/DannyMolnar/Talks_Presentations/blob/main/Calibration_workshop_2024Jan18.pptx)]
    
  **Talk:**  
  - \[date\]
