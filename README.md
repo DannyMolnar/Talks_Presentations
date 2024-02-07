@@ -14,8 +14,8 @@ This is a list of some of the talks I have given at various events.
  - \[REACH calibration workshop,18 January 2024,Cambridge]
  - \[[PPT](https://github.com/DannyMolnar/Talks_Presentations/blob/main/Calibration_workshop_2024Jan18.pptx)]
    
- **Talk:**  
- - \[date\]
+ **The REACH 21-cm instrument:**  
+ - \[Kavli Institute Focus meeting 06\02/2024\]
  - \[[Event webpage](link)]
  - \[[PDF](link)]
    
