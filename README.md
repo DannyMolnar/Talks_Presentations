@@ -17,9 +17,19 @@ This is a list of some of the talks I have given at various events.
  **The REACH 21-cm instrument:**  
  - \[Kavli Institute Focus meeting 06\02/2024\]
  - \[[Event webpage]([link](https://www.kicc.cam.ac.uk/events/kavli-science-themed-meetings/science-21-cm-line))]
- - \[[PDF](link)]
+ - \[[PDF](https://github.com/DannyMolnar/Talks_Presentations/blob/main/21cm_Kavli_focusmeeting.pdf)]
    
  **Talk:**  
+ - \[date\]
+ - \[[Event webpage](link)]
+ - \[[PDF](link)]
+
+ **Talk:**  
+ - \[date\]
+ - \[[Event webpage](link)]
+ - \[[PDF](link)]
+   
+    **Talk:**  
  - \[date\]
  - \[[Event webpage](link)]
  - \[[PDF](link)]
